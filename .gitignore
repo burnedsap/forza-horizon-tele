@@ -105,3 +105,6 @@ dist
 
 # NPM
 package-lock.json
+
+# Mac
+.DS_Store
